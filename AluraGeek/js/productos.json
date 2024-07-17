@@ -1,0 +1,164 @@
+[
+    {
+        "id": "phone-01",
+        "titulo": "Samsung",
+        "imagen": "./img/phones/samsung.jpg",
+        "categoria": {
+            "nombre": "Phones",
+            "id": "phones"
+        },
+        "precio": 900
+    },
+    {
+        "id": "phone-02",
+        "titulo": "Google",
+        "imagen": "./img/phones/google.jpg",
+        "categoria": {
+            "nombre": "Phones",
+            "id": "phones"
+        },
+        "precio": 850
+    },
+    {
+        "id": "phone-03",
+        "titulo": "Xiaomi",
+        "imagen": "./img/phones/xiaomi.jpg",
+        "categoria": {
+            "nombre": "Phones",
+            "id": "phones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "phone-04",
+        "titulo": "Xiaomi",
+        "imagen": "./img/phones/xiaomi.jpg",
+        "categoria": {
+            "nombre": "Phones",
+            "id": "phones"
+        },
+        "precio": 700
+    },
+    {
+        "id": "notebook-01",
+        "titulo": "Asus",
+        "imagen": "./img/notebooks/asus.jpg",
+        "categoria": {
+            "nombre": "Notebook",
+            "id": "notebook"
+        },
+        "precio": 1800
+    },
+    {
+        "id": "notebook-02",
+        "titulo": "Lenovo",
+        "imagen": "./img/notebooks/lenovo.jpg",
+        "categoria": {
+            "nombre": "Notebook",
+            "id": "notebook"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "notebook-03",
+        "titulo": "Lenovo",
+        "imagen": "./img/notebooks/lenovo.jpg",
+        "categoria": {
+            "nombre": "Notebook",
+            "id": "notebook"
+        },
+        "precio": 2800
+    },
+    {
+        "id": "notebook-04",
+        "titulo": "Xiaomi",
+        "imagen": "./img/notebooks/xiaomi.jpg",
+        "categoria": {
+            "nombre": "Notebook",
+            "id": "notebook"
+        },
+        "precio": 2000
+    },
+
+    
+    {
+        "id": "wearables-01",
+        "titulo": "Smartwatch",
+        "imagen": "./img/wearables/samsung.jpg",
+        "categoria": {
+            "nombre": "Wearables",
+            "id": "Wearables"
+        },
+        "precio": 250
+    },
+    {
+        "id": "wearables-01",
+        "titulo": "Applewatch",
+        "imagen": "./img/wearables/apple.jpg",
+        "categoria": {
+            "nombre": "Wearables",
+            "id": "Wearables"
+        },
+        "precio": 300
+    },
+    {
+        "id": "wearables-01",
+        "titulo": "Amazfit",
+        "imagen": "./img/wearables/amazfit.jpg",
+        "categoria": {
+            "nombre": "Wearables",
+            "id": "Wearables"
+        },
+        "precio": 200
+    },
+    {
+        "id": "wearables-01",
+        "titulo": "Lenovo",
+        "imagen": "./img/wearables/lenovo.jpg",
+        "categoria": {
+            "nombre": "Wearables",
+            "id": "Wearables"
+        },
+        "precio": 220
+    },
+    {
+        "id": "wearables-01",
+        "titulo": "Earbuds",
+        "imagen": "./img/wearables/earbuds.jpg",
+        "categoria": {
+            "nombre": "Wearables",
+            "id": "Wearables"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "wearables-01",
+        "titulo": "Glaxy Buds",
+        "imagen": "./img/wearables/galaxy-buds.jpg",
+        "categoria": {
+            "nombre": "Wearables",
+            "id": "Wearables"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "wearables-01",
+        "titulo": "JBL",
+        "imagen": "./img/wearables/jbl.jpg",
+        "categoria": {
+            "nombre": "Wearables",
+            "id": "Wearables"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "wearables-01",
+        "titulo": "Philips",
+        "imagen": "./img/wearables/philips.jpg",
+        "categoria": {
+            "nombre": "Wearables",
+            "id": "Wearables"
+        },
+        "precio": 1000
+    }
+]
